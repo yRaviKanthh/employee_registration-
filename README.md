@@ -1,6 +1,6 @@
 # Employee Registration System
 
-A simple web-based Employee Registration System developed using PHP and MySQL. This application allows users to register employee details through a clean web form and store the information securely in a database. The project is built for learning purposes and runs on a local XAMPP environment.
+A simple web-based Employee Registration System developed using PHP and MySQL. This application allows users to register employee details through a web form and store the information securely in a database. The project is built for learning purposes and runs on a local XAMPP environment.
 
 ---
 
@@ -22,16 +22,14 @@ A simple web-based Employee Registration System developed using PHP and MySQL. T
 ---
 
 ## Project Structure
----
-employee-registration/
-│
-├── register.html
-├── register.php
-├── config.php
-├── employee_db.sql
-└── employee-management-scaled.jpg
 
----
+employee-registration/  
+├── register.html  
+├── register.php  
+├── config.php  
+├── employee_db.sql  
+└── employee-management-scaled.jpg  
+
 ---
 
 ## Setup Instructions
