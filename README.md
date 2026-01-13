@@ -22,7 +22,7 @@ A simple web-based Employee Registration System developed using PHP and MySQL. T
 ---
 
 ## Project Structure
-
+---
 employee-registration/
 │
 ├── register.html
@@ -31,6 +31,7 @@ employee-registration/
 ├── employee_db.sql
 └── employee-management-scaled.jpg
 
+---
 ---
 
 ## Setup Instructions
@@ -72,7 +73,3 @@ http://localhost/employee-registration/register.html
 
 ---
 
-## Author
-**Yedimala Ravikanth**  
-- LinkedIn: https://linkedin.com/in/ravi-kanth7  
-- GitHub: https://github.com/yRaviKanthh
